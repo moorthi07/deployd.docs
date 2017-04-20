@@ -29,6 +29,12 @@ Here is a simple *hello world* using Deployd as a node module.
 
     dpd.listen();
 
+
+Update: You will need the following steps before you can run.
+1. Create 'resources' directory in the root directory
+2. Set up db.connectionstring in options 
+At the first run dpd will look for these info.
+
 Run this like any other node program.
 
     node hello.js
