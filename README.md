@@ -1,13 +1,16 @@
 deployd-docs
 ============
 
-documentation for the deployd platform
+documentation for the deployd nodejs REST API Framework www.deployd.com
 
 
 
 Workflow
 ---------------
 
+    # clone this repository. From 'docs'  - folder,
+    npm install
+    
     # make sure http-server is installed by (you can use your favour http server)
     # npm install -g http-server
 
