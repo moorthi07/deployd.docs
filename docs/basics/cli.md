@@ -57,7 +57,7 @@ Here is the help output of `dpd -h`:
 
     Usage: dpd [options] [command]
 
-    Commands:
+    Commands: 
 
       create [project-name]
       	create a project in a new directory
