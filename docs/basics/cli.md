@@ -2,16 +2,16 @@
   title: 'The "dpd" Command Line Tool'
 }-->
 
-Installation
+#### Installation
 
-npm install deployd-cli -g
+### npm install deployd-cli -g
 
-Prerequisites
+### Prerequisites
 
 The CLI requires Node 4 or higher.
 Deployd requires MongoDB locally to start sucessfully. Check the Deployd Requirements
 
-Getting started
+### Getting started
 
 $ dpd create hello
 $ cd hello
