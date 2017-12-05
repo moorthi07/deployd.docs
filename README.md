@@ -19,24 +19,24 @@ Workflow
 
    ## To install on your pc
 
-   # clone this repository. From 'docs'  - folder,
+    # clone this repository. From 'docs'  - folder,
     npm install
     
-   # make sure http-server is installed by (you can use your favour http server)
-   # npm install -g http-server
+    # make sure http-server is installed by (you can use your favour http server)
+    # npm install -g http-server
 
-   # start a simple http server
+    # start a simple http server
     http-server _site &
 
-   # open browser and go to http://localhost:8080/
+    # open browser and go to http://localhost:8080/
 
 
-   # open another terminal
+    # open another terminal
     node staticGen.js
-   # change the docs files, and test the out until it is ok
+    # change the docs files, and test the out until it is ok
 
 
-   # push to git remote origin gh-pages by
+    # push to git remote origin gh-pages by
     node bin/gen-gh-pages.js
 
 
