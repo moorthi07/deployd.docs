@@ -8,6 +8,18 @@ documentation for the deployd nodejs REST API Framework www.deployd.com
 Workflow
 ---------------
 
+    ## Quick and easy step.
+    Fork this repo
+    Create a github.io page from the >settings of the repository.
+    Browse docs pages at your-github-username.github.io/the-repo-name
+    Modify the pages , save and browse the changes
+    
+    Once ready to merge create a pull request. That is it. 
+
+
+
+    ## To install on your pc
+
     # clone this repository. From 'docs'  - folder,
     npm install
     
